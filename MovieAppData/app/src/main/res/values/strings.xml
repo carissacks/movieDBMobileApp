@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieAppData</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_desc">Description</string>
+</resources>

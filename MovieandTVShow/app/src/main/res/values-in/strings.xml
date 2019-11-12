@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Katalog Film &amp; Acara TV</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="movie_desc">Deskripsi Film</string>
+    <string name="movie_duration">Durasi Film</string>
+    <string name="movie_date">Tanggal Film</string>
+    <string name="movie_genre">Genre Film</string>
+    <string name="movie_user_score">Rating Film</string>
+    <string name="story_line">Jalur Cerita</string>
+    <string name="language">Ubah Bahasa</string>
+
+    <string name="movie_poster">Poster dari film</string>
+    <string name="favourite">Favorit</string>
+    <string name="fav_movie">Film Favorit</string>
+    <string name="fav_tvShow">Acara TV Favorit</string>
+    <string name="no_content">List ini masih kosong</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Masukkan kata kunci</string>
+    <string name="set_reminder">Pasang pengingat</string>
+    <string name="daily_reminder">Pasang pengingat harian</string>
+    <string name="new_movie_reminder">Pengingat film baru</string>
+    <string name="set_daily">Pengingat harian telah dipasang.</string>
+    <string name="set_new_movie">Pengingat film baru telah dipasang.</string>
+    <string name="remove_daily">Pengingat harian telah dimatikan.</string>
+    <string name="remove_new_movie">Pengingat film baru telah dimatikan.</string>
+    <string name="bored">Arpakah kamu bosan? Yuk nonton film!</string>
+    <string name="new_release">%s tayang HARI INI!</string>
+    <string name="check_it_out">Lihat sekarang juga.</string>
+    <string name="check_us_out">Buka aplikasi untuk melihat rekomendasi film.</string>
+
+</resources>

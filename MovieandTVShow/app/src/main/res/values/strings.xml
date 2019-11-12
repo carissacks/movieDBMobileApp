@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Movie &amp; TV Show Catalogue</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Tv Shows</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_desc">Movie Description</string>
+    <string name="movie_duration">Movie Duration</string>
+    <string name="movie_date">Movie Date</string>
+    <string name="movie_genre">Movie Genres</string>
+    <string name="movie_user_score">Movie Rating</string>
+    <string name="story_line">Story Line</string>
+    <string name="user_score" translatable="false"> %.1f / 100</string>
+    <string name="language">Change Language</string>
+
+    <string name="movie_poster">The poster of the movie</string>
+    <string name="detail" translatable="false">Detail</string>
+    <string name="favourite">Favourite</string>
+    <string name="fav_movie">Favourite Movie</string>
+    <string name="fav_tvShow">Favorite TV Show</string>
+    <string name="no_content">This list is currently empty</string>
+    <string name="no_data">No Data</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Keyword please</string>
+    <string name="set_reminder">Set reminder</string>
+    <string name="daily_reminder">Set daily reminder</string>
+    <string name="new_movie_reminder">New movie reminder</string>
+    <string name="set_daily">Daily reminder is set.</string>
+    <string name="set_new_movie">New release movie reminder is set.</string>
+    <string name="remove_daily">Daily reminder is turned off.</string>
+    <string name="remove_new_movie">New release movie reminder is turned off.</string>
+    <string name="bored">Are you bored? Let\'s watch movies!</string>
+    <string name="new_release">%s is released TODAY!</string>
+    <string name="check_it_out">Check it out NOW.</string>
+    <string name="check_us_out">Open the app for movies recommendations.</string>
+</resources>
